@@ -31,3 +31,15 @@ test suite  - not started
 Want to work with us on exciting systems software challenges, specifically with WASM, Rust, C/C++, VMs and systems software tuning? Apply at denpasar.ml or email Alan (our manager for systems software projects) at alan.geschwindner at gmail.com.
 
 Our software (StatsPaq, Experio Research) is used by over 40 universities and research institutions worldwide in statistics and social sciences research labs and classrooms. We are now building a web-based suite that is more powerful that our our-device, on-premise solutions. If you're a web engineer with experience in Golang, Ruby, Sidekiq, Vue.js or similar technologies, check out our UI engineering roles.
+
+
+Maintainers
+===========
+Alan Geschwindner
+Erik Hansen
+Vina Anand
+
+Emeritus
+--------
+Antonio Deleon
+Nehru Selva
